@@ -6,7 +6,7 @@ So let's talk about Gold Standard User Stories when building APIs.
 
 # Slide 2
 Planning success is all about consistent repetition.  I'm sure most of you agree
- being agile enthusiast. But I last week in vegas I was reminded that actually
+ being agile enthusiasts. Last week in vegas I was reminded that actually
 Casinos do this better than almost anyone.
 
 They are open 24x7x360 = consistency
